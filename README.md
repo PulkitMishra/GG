@@ -1,4 +1,4 @@
-# GG
+# Timeline for WOC
 
 ### Increasing Environmental Awareness
 
