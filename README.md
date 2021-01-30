@@ -2,13 +2,4 @@
 
 ### Increasing Environmental Awareness
 
-This is application Bbuilt during DSC IIIT Kalyani Winter of Code to provide environmental awareness using programming
-
-## Quick Start
-
-```
-code
-
-```
-
-## App Info
+Game built during DSC IIIT Kalyani Winter of Code to promote environmental awareness
